@@ -10,6 +10,7 @@
 
 ##not been staged yet
 
+how to make contribute
 ##copyright
 
 ##copyright2
